@@ -1,0 +1,1 @@
+[{"Firstname":"shagor","Lastname":"rakshit","Present Address":"Feni","Permanent  Address":"Feni","Gender":"male","Religion":"Hindu","Date Of Birth":"17-10-99","Phone No":"01856915232","Email":"mainecousins@gmail.com","UserName":"Shagor","Password":"954156"}]
